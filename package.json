@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/xjtu-lyh/kittennpm/issues"
   },
-  "homepage": "https://github.com/xjtu-lyh/kittennpm#readme"
+  "homepage": "https://github.com/xjtu-lyh/kittennpm#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
 }
