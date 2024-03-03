@@ -1,6 +1,6 @@
 {
   "name": "kittennpm",
-  "version": "1.0.2",
+  "version": "1.0.1",
   "description": "kitten new project",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xjtu-lyh/kittennpm.git"
+    "url": "git://github.com/xjtu-lyh/kittennpm.git"
   },
   "keywords": [
     "kitten"
