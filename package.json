@@ -1,6 +1,6 @@
 {
   "name": "kittennpm",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "kitten new project",
   "main": "index.js",
   "scripts": {
