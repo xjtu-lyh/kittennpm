@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/xjtu-lyh/kittennpm"
+    "url": "https://github.com/xjtu-lyh/kittennpm.git"
   },
   "keywords": [
     "kitten"
